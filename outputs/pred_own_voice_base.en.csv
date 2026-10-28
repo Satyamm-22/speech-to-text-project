@@ -1,0 +1,13 @@
+filename,audio_path,true_transcript,pred_transcript,condition,confidence
+clip_1,data/friend/clip_1.opus,"hello ,good evening","Hello, good evening.",own_voice,0.555
+clip_003,data/own_voice/clip_003.wav,hello good,"Hello, good evening. Guess what I'm going to do. Hello. Good evening. Guess what I'm going to do. Hello, good evening.",own_voice,0.473
+clip_004,data/own_voice/clip_004.wav,okay,"Okay. We'll be right back. Alright. Okay. Now, we're gonna get these from the other side. You can see where that goes. I didn't see them. I didn't see them. I'm not sure. I don't see them. Okay. Okay. I'll see. Okay. I can see. I'm gonna see. It's just a little bit lighter. I can see. Okay. Yeah. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay.",own_voice,0.362
+clip_1,data/friend/clip_1.opus,hello good evening,"Hello, good evening.",own_voice,0.555
+clip_005,data/own_voice/clip_005.wav,that is why we cry education science,This is why we create equation science.,own_voice,0.514
+clip_006,data/own_voice/clip_006.wav,then he comes to the beak of it,Then he comes to back big of it.,own_voice,0.579
+clip_007,data/own_voice/clip_007.wav,so guys this is our speech to text modal,so guys this is our speech text model,own_voice,0.564
+clip_1,data/friend/clip_1.opus,"hello , good evening","Hello, good evening.",own_voice,0.555
+clip_1,data/friend/clip_1.opus,hello good evening,"Hello, good evening.",own_voice,0.555
+clip_013,data/own_voice/clip_013.wav,hello my name is satyam,or you got sample test test or you got the test we are going to say compared to how it died.,own_voice,0.371
+clip_1,data/friend/clip_1.opus,python demo.py,"Hello, good evening.",own_voice,0.555
+clip_014,data/own_voice/clip_014.wav,python demo.py --file data/friend/clip1.opus[D[D[D[D[D[D[D[D[D[D[D[D[D[,"Hello, my name is Ataman. Welcome to the IDC course.",own_voice,0.461

@@ -1,0 +1,5 @@
+condition,clips,mean_duration_s,mean_ref_words,mean_hyp_words,mean_clip_wer,median_clip_wer,pct_perfect_clips,corpus_wer
+noisy_snr0,100,7.414,20.3,20.72,0.384,0.289,6.0,0.3163
+noisy_snr10,100,7.414,20.3,20.35,0.088,0.073,38.0,0.0842
+own_voice,11,5.697,4.273,13.364,7.418,0.25,36.364,2.4681
+clean,10,5.771,14.9,15.2,0.061,0.0,80.0,0.0336

@@ -1,0 +1,41 @@
+condition,filename,wer,ref,hyp
+own_voice,clip_004,66.0,okay,"Okay. We'll be right back. Alright. Okay. Now, we're gonna get these from the other side. You can see where that goes. I didn't see them. I didn't see them. I'm not sure. I don't see them. Okay. Okay. I'll see. Okay. I can see. I'm gonna see. It's just a little bit lighter. I can see. Okay. Yeah. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay."
+own_voice,clip_003,9.5,hello good,"Hello, good evening. Guess what I'm going to do. Hello. Good evening. Guess what I'm going to do. Hello, good evening."
+own_voice,clip_013,4.2,hello my name is satyam,or you got sample test test or you got the test we are going to say compared to how it died.
+noisy_snr0,121-123852-0001,1.5,ay me,i need you.
+noisy_snr0,2094-142345-0046,1.2,i delight in your kitchen,i've been waiting here for sure.
+noisy_snr0,1284-1181-0021,1.1666666666666667,asked the voice in scornful accents,"after voice, it's going to last since."
+noisy_snr0,237-134500-0009,1.125,i suppose that's the wet season too then,i could go back to the work that you can do then.
+own_voice,clip_1,1.0,python demo.py,"Hello, good evening."
+noisy_snr0,7176-92135-0020,0.9333333333333333,double nine two three elsinore double nine yes hallo is that you horatio hamlet speaking,"double-9t3, elginor, double-mocked death. hello, is it you, here i go, 10 to 15."
+noisy_snr0,1995-1836-0013,0.9285714285714286,mary taylor however related the tale of zora to missus grey's private ear later,mary taylor however related to taylor as well as the mrs. grace by the key in relation.
+noisy_snr0,4507-16021-0042,0.8823529411764706,it is black in misfortune it is blacker still in crime these two blacknesses amalgamated compose slang,this is black in this person. this is blacker still in the sky. these two black nurses are now going to become very safe.
+noisy_snr0,908-157963-0024,0.875,image of weakness art thou but a worm,image of these clips are now but i'll do them.
+noisy_snr0,260-123286-0024,0.875,there's a whale a whale cried the professor,"it was a real, a real private perspective."
+noisy_snr0,6829-68769-0038,0.8333333333333334,and it ruins a man's disposition,and it rose around just the mission.
+noisy_snr10,121-123852-0001,0.5,ay me,i'm me.
+clean,4992-41797-0019,0.4444444444444444,olive's mournful black eyes met nancy's sparkling brown ones,all of its mournful black eyes meant nancy's sparkling brown ones.
+own_voice,clip_005,0.42857142857142855,that is why we cry education science,This is why we create equation science.
+noisy_snr10,4507-16021-0042,0.35294117647058826,it is black in misfortune it is blacker still in crime these two blacknesses amalgamated compose slang,"it is black in this fortune. it is blacker still with a crime. these two blacknesses amalgamated, composed slaves."
+noisy_snr10,5105-28241-0007,0.2857142857142857,there is no fear of that sir,"there's no fear of that, sir."
+noisy_snr10,5683-32879-0013,0.28125,chelford had a note from mister wylder this morning another note his coming delayed and something of his having to see some person who is abroad continued dorcas after a little pause,"chelford had a note from mr. wilder this morning, another note, his coming to lead, and something of his having to see some person who is abroad continue to work as after a little cause."
+noisy_snr10,8555-284449-0007,0.28,now then let's enter the city an enjoy the grand feast that's being cooked i'm nearly starved myself for this conquerin kingdoms is hard work,"now then, let's enter the city and enjoy the great piece that's being cooked. i'm nearly starving myself, but this concrete kingdom is hard work."
+noisy_snr10,237-134500-0016,0.2727272727272727,i don't know all of them but i know lindens are,"i don't know all of them, but i know them and bob."
+noisy_snr10,7176-92135-0020,0.26666666666666666,double nine two three elsinore double nine yes hallo is that you horatio hamlet speaking,double nine two three elton or double not yes. hello. is that you horatio hamlet speaking?
+noisy_snr10,4992-41797-0002,0.25,grandfather was alexander carey l l d doctor of laws that is,"grandfather was alexander carey lld, doctor of laws, that is."
+noisy_snr10,5142-36377-0010,0.25,he is not well he has come over the ocean for rest and change of scene,he is knocked well. he has come over the ocean for rest and changes sea.
+noisy_snr10,237-134500-0009,0.25,i suppose that's the wet season too then,i suppose that's the work season 2 then.
+own_voice,clip_006,0.25,then he comes to the beak of it,Then he comes to back big of it.
+own_voice,clip_007,0.2222222222222222,so guys this is our speech to text modal,so guys this is our speech text model
+clean,8555-284449-0009,0.16666666666666666,you are mate replied the sailor,"you are a mate,"" replied the sailor."
+clean,1188-133604-0006,0.0,then he comes to the beak of it,then he comes to the beak of it.
+own_voice,clip_1,0.0,hello good evening,"Hello, good evening."
+own_voice,clip_1,0.0,"hello , good evening","Hello, good evening."
+clean,6829-68769-0022,0.0,we have heard something of your story said kenneth and are interested in it,"we have heard something of your story, said kenneth, and are interested in it."
+clean,8555-292519-0003,0.0,in a sunset glowing of crimson and gold she lies the glory of the world a beached king's galley whose sails are furled who is hung with tapestries rich and old,"in a sunset glowing of crimson and gold, she lies, the glory of the world. a beached king's galley, whose sails are furled, who is hung with tapestries rich and old."
+own_voice,clip_1,0.0,hello good evening,"Hello, good evening."
+clean,237-134493-0013,0.0,indeed he had looked away with the purpose of not seeing it,"indeed, he had looked away with the purpose of not seeing it."
+clean,1995-1826-0017,0.0,there might be a bit of poetry here and there but most of this place was such desperate prose,"there might be a bit of poetry here and there, but most of this place was such desperate prose."
+clean,4970-29095-0038,0.0,ruth was glad to hear that philip had made a push into the world and she was sure that his talent and courage would make a way for him,"ruth was glad to hear that philip had made a push into the world, and she was sure that his talent and courage would make a way for him."
+clean,4507-16021-0051,0.0,in this world evidently the vestibule of another there are no fortunate,"in this world, evidently the vestibule of another, there are no fortunate."
+clean,1089-134686-0035,0.0,he had the faith in him that moves mountains,he had the faith in him that moves mountains.

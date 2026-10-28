@@ -1,0 +1,6 @@
+faster-whisper
+jiwer
+pandas
+matplotlib
+sounddevice
+soundfile

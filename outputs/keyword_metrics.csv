@@ -1,0 +1,5 @@
+condition,clips,TP,FP,FN,precision,recall,f1
+noisy_snr0,100,69,5,7,0.932,0.908,0.92
+noisy_snr10,100,76,2,0,0.974,1.0,0.987
+own_voice,11,0,1,0,0.0,0.0,0.0
+clean,10,3,0,0,1.0,1.0,1.0
